@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Test" Runtime="VM" Device="Default">
+	<Desktop x="0" y="29" width="1920" height="1001" id="19" title="3.block_mover - GameMaker" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="False" chain="False" title="rm_bedroom" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="rm_bedroom">
+						<RoomEditArea>
+							<PanArea zoom="2.5093167" pan="[-116.06437, -22.148521]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Instances_2" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="rm_living_room" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="rm_living_room">
+						<RoomEditArea>
+							<PanArea zoom="1.9952997" pan="[-77.749115, -22.251175]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="wall" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="rm_outside" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="rm_outside">
+						<RoomEditArea>
+							<PanArea zoom="1.3245902" pan="[-255.1485, 19]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Instances" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="Room4" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="Room4">
+						<RoomEditArea>
+							<PanArea zoom="1.5699999" pan="[-8.201923, 29]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Instances" />
+								<Item name="inst_7546AE96" path="rooms/Room4/Room4.yy" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="Room5" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="Room5">
+						<RoomEditArea>
+							<PanArea zoom="1.23" pan="[143.71544, -56.29268]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Instances" />
+								<Item name="inst_712EEF31" path="rooms/Room5/Room5.yy" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="Room6" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="Room6">
+						<RoomEditArea>
+							<PanArea zoom="0.91268414" pan="[-22.845703, -91.207275]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Instances" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="Room7" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="Room7">
+						<RoomEditArea>
+							<PanArea zoom="1.15" pan="[-84.99998, 179.47826]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Tiles_1" />
+								<Item name="inst_2D1C5FF3" path="rooms/Room7/Room7.yy" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="Room8" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="Room8">
+						<RoomEditArea>
+							<PanArea zoom="1" pan="[-69.25, -27]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Instances_1" />
+								<Item name="inst_58DC39E0" path="rooms/Room8/Room8.yy" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="Room9" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="Room9">
+						<RoomEditArea>
+							<PanArea zoom="1" pan="[-362.25, -38]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="Instances" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="True" title="Workspace 1" localise_title="" workspace_offset="[-4363.75, -710.33325]" workspace_scale="0.1" />
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="275.09244dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" localise_arguments="[&quot;1&quot;]" cell_sizes="[395,604]" layout_id="dock_tab_1" layout_guid="a5bdded0-2011-4cfd-b9e1-3333fc13a8ab">
+				<Module Command="open_inspector">
+					<Inspector resName="inst_38B56C63">
+						<Window left="366dpi_px" right="" top="157dpi_px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector: inst_38B56C63" localise_title="Inspector_WindowTitleArg" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="234.7563dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="cdc593b5-e327-49d2-9ba1-2aeac44bc57f">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="104">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+			<DockTab localise_title="RoomEditor_DockTab" cell_sizes="[1000]" layout_id="room_editor_tab" layout_guid="2fb160e4-9a67-4596-b568-43ae425aeb13" />
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="208.187dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="a942aaf9-db4c-4bce-8a17-2f13fc0456d1">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="7af272cd-8149-48a5-b814-c487102c1ae8">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="feef77dc-3e62-46e4-9601-e4cab0182ad6">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="f4c4be0c-21e5-405c-97bf-5709ecf0404a">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab title="Compile Errors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="bc817787-dc94-4732-9ac8-a6fa1fec1077">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="2e2bffd9-8a08-447c-90d9-607e4cb147ce">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+	<Modules>
+		<YoYoStudio.Plugins.RoomEditor.RoomEditorModule>
+			<RoomEditor>
+				<Layers left="340dpi_px" right="" top="" bottom="270dpi_px" width="320dpi_px" height="200dpi_px" flags="CloseButton, MinimizeButton, ResizeButton" title="Layers - Room9" localise_title="RoomEditor_Layers" dock_type="eLeft" dock_tab_index="0" dock_list_index="0" dock_proportion="0.7905773" dock_tab_name="Inspector" dock_tab_localise_name="Inspector_WindowTitle" dock_tab_localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" dock_tab_id="dock_tab_1" dock_tab_guid="a5bdded0-2011-4cfd-b9e1-3333fc13a8ab" desktop="19" />
+			</RoomEditor>
+		</YoYoStudio.Plugins.RoomEditor.RoomEditorModule>
+		<YoYoStudio.Plugins.RoomEditor.Tools.RoomEditor_TileEditing>
+			<RoomEditor_TileEditing>
+				<TileSet left="" right="370dpi_px" top="125dpi_px" bottom="" width="450dpi_px" height="400dpi_px" flags="Default" title="Tiles - Room9" localise_title="RoomEditor_TileWindow" dock_type="eRight" dock_tab_index="1" dock_list_index="0" dock_proportion="1" dock_tab_name="Room Editor" dock_tab_localise_name="RoomEditor_DockTab" dock_tab_id="room_editor_tab" dock_tab_guid="2fb160e4-9a67-4596-b568-43ae425aeb13" desktop="19" />
+			</RoomEditor_TileEditing>
+		</YoYoStudio.Plugins.RoomEditor.Tools.RoomEditor_TileEditing>
+	</Modules>
+</Project>
